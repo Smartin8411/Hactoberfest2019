@@ -44,3 +44,6 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+### Smartin
+[Smartin8411](https://github.com/smartin8411/)
+---
